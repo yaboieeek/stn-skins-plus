@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         STN skins++
+// @name         STN skins+
 // @namespace    eeek
 // @version      2.1.0
 // @description  marketplace buttons for skins :p
